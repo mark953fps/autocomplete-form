@@ -7,16 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   brands: string[] = [
-    'Audi',
-    'BMW',
-    'Fiat',
-    'Ford',
-    'Honda',
-    'Jaguar',
-    'Mercedes',
-    'Renault',
-    'Volvo',
-    'VW'
+    '10001',
+    '10002',
+    '10003',
+    '10004',
+    '10005',
+    '10006',
+    '10006',
+    '10007',
+    '10008',
+    '10009'
   ];
 
   filteredBrands: any[];
